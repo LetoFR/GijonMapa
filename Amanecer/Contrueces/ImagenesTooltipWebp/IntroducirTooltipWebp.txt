@@ -1,3 +1,3 @@
-Introduzca aquí las imágenes que sigan el formato .webp y que serán utilizadas como tooltips. Propiedades recomendadas: Anchura 600 x Altura 400
+Introduzca aquí las imágenes que sigan el formato .webp y que serán utilizadas como tooltips. Propiedades recomendadas: Anchura 600 x Altura 338
 
-Introduce here all of the images that follow the format .webp and that will be used as tooltips. Recommended properties: Width 600 x Height 400
+Introduce here all of the images that follow the format .webp and that will be used as tooltips. Recommended properties: Width 600 x Height 338
