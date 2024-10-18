@@ -1,0 +1,3 @@
+En caso de tener videos referenciales, podremos subirlos en animaciones .webp y mostrarlas en el mapa.
+
+In the case of there being referencial footage, we can upload each one of them as .webp animations, and show them while hoovering the map.
